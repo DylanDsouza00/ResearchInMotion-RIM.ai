@@ -29,6 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Imagine having to never monitor surveillance videos and find people manually in those videos. Our system bridges the gap between traditional CCTV systems and state-of-the-art Computer Vision techniques to help eliminate the redundant and inefficient task performed by Police personnel.
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
