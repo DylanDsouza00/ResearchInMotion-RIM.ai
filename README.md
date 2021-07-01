@@ -69,7 +69,7 @@ You should have the specific OpenVino version installed (openvino 2020.4.287).
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-### Acknowledgments 
+## Acknowledgements
 
 Sujit Noronha - [https://www.linkedin.com/in/sujit-noronha-0452171b1]
 </br>
