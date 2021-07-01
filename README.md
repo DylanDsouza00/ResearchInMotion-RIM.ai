@@ -61,7 +61,7 @@ You should have the specific OpenVino version installed (openvino 2020.4.287).
    ```
 4. Run your project.
    ```sh
-   python vino.inf.py
+   python vino_inf.py
    ```
    
   <!-- LICENSE -->
