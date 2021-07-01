@@ -21,11 +21,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -69,15 +65,17 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    
   <!-- LICENSE -->
-## License
+### License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
+### Acknowledgments 
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Sujit Noronha - [https://www.linkedin.com/in/sujit-noronha-0452171b1]
+</br>
+Askhaye Nair-[https://www.linkedin.com/in/akshaye-nair-aa6007181/]
+</br>
+Dylan Dsouza-[https://www.linkedin.com/in/dylandsouza00/]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: images/screenshot2.jpg
