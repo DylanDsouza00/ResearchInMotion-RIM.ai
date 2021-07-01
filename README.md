@@ -43,26 +43,24 @@ The Tech Stack used to make the project is
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+You should have the specific OpenVino version installed (openvino 2020.4.287).
+* [OpenVino](https://docs.openvinotoolkit.org/2020.4/index.html)
+* [Python 3.7](https://www.python.org/downloads/release/python-370/)
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/DylanDsouza00/ResearchInMotion-RIM.ai.git
    ```
-3. Install NPM packages
+3. Install python packages
    ```sh
-   npm install
+   pip install -r requirements.txt
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+4. Run your project.
+   ```sh
+   python vino.inf.py
+   ```
    
   <!-- LICENSE -->
 ### License
